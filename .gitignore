@@ -1,1 +1,4 @@
 node_modules
+deployData.js
+test.config.js
+main.test.js
